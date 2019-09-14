@@ -1,2 +1,4 @@
 # tp-ikao
-TP IKAO - Dev Web
+TP IKAO - Développement Web
+
+Rendu du TP IKAO par Sarah Mauriaucourt et Camille Glaçon.
